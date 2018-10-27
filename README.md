@@ -2,7 +2,7 @@
 A library of Image Processing tools that are wrapped around the `PIL` 
 library in python
 
-##Features
+## Features
 - Downsampling
 - Upsampling
 - bluring an image using the Discrete Fourier Transform
