@@ -1,6 +1,6 @@
 ## Summary
 A library of Image Processing tools that are wrapped around the `PIL` 
-library in python
+library in Python
 
 ## Features
 - Downsampling
