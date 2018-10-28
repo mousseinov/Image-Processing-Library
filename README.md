@@ -10,3 +10,8 @@ library in Python
 
 
 ## A Simple Example
+``` python 
+from ImageProcess import ImageProcess
+I = ImageProcess()
+I.readImage("img.png")
+```
