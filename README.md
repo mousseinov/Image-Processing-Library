@@ -14,4 +14,6 @@ library in Python
 from ImageProcess import ImageProcess
 I = ImageProcess()
 I.readImage("img.png")
+I_blurred = I.dftTruncate(0.25)
+I_blurred.showImage()
 ```
