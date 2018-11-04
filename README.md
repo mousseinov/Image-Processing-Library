@@ -11,8 +11,8 @@ library in Python
 
 ## A Simple Example
 ``` python 
-from ImageProcess import ImageProcess
-I = ImageProcess()
+from IPL import IP
+I = IP.ImageProcess()
 I.readImage("img.png")
 I_blurred = I.dftTruncate(0.25)
 I_blurred.showImage()
