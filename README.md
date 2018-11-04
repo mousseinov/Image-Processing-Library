@@ -1,4 +1,4 @@
-## Summary [![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)]
+## Summary ![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)
 A library of Image Processing tools that are wrapped around the `PIL` 
 library in Python
 
