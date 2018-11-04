@@ -7,6 +7,8 @@ library in Python
 - Upsampling
 - blurring an image using the Discrete Fourier Transform
 - blurring an image using the Discrete Cosine Transform
+- Histogram Equalization 
+
 ## Installation
 To install IPL from source, first clone the repository and then run: `python setup.py install`
 
