@@ -8,7 +8,7 @@ library in Python
 - blurring an image using the Discrete Fourier Transform
 - blurring an image using the Discrete Cosine Transform
 ## Installation
-To install IPL from source, first clone the repository and then run: python setup.py install
+To install IPL from source, first clone the repository and then run: python `setup.py install`
 
 ## A Simple Example
 ``` python 
