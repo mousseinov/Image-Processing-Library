@@ -1,4 +1,4 @@
-#### IPL ![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)
+# IPL ![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)
 ## Summary 
 A library of Image Processing tools that are wrapped around the `PIL` 
 library in Python
