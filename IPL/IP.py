@@ -19,7 +19,7 @@ class ImageProcess:
 		return self.im
 
 	def readImage(self, filename):
-		self.im = Image.open("lenna_grey.jpg")
+		self.im = Image.open(filename)
 
 	def showImage(self):
 		self.im.show()
@@ -160,7 +160,7 @@ class ImageProcess:
 		plt.savefig("uv")
 		plt.show()
 
-		def fft2D(self):
+	def fft2D(self):
 		if self.im == None:
 			raise ValueError("No Image in object")
 		image = np.array(self.im)
@@ -196,6 +196,7 @@ class ImageProcess:
 
 
 	def dftTruncate(self, decrease = 0.25):
+		self.fft2D()
 		trunc = int(1/decrease)
 		dftCopy = np.copy(self.dft)
 		shape = self.dft.shape
