@@ -1,5 +1,6 @@
 # Histogram Equalization
- `input: None`
+`function: histogramEqualization`
+`parameters: None` <br/>
 `returns: IP.ImageProcess object containing the equalized image`
 ## Example
 ``` python
