@@ -5,8 +5,8 @@ library in Python
 ## Features
 - Downsampling
 - Upsampling
-- blurring an image using the Discrete Fourier Transform
-- blurring an image using the Discrete Cosine Transform
+- Blurring an image using the Discrete Fourier Transform
+- Blurring an image using the Discrete Cosine Transform
 - Histogram Equalization 
 
 ## Installation
