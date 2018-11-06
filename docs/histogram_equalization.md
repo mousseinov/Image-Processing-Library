@@ -1,6 +1,7 @@
 # Histogram Equalization
-
-## A Simple Example
+ `input: None`
+`returns: IP.ImageProcess object containing the equalized image`
+## Example
 ``` python
 from IPL import IP
 I = IP.ImageProcess()
