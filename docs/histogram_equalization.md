@@ -1,7 +1,7 @@
 # Histogram Equalization
-`function` : `histogramEqualization` <br/>
-`parameters` : `None` <br/>
-`returns` : `IP.ImageProcess object containing the equalized image`
+`function` : histogramEqualization <br/>
+`parameters` : None <br/>
+`returns` : IP.ImageProcess object containing the equalized image
 ## Example
 ``` python
 from IPL import IP
